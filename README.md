@@ -7,3 +7,5 @@
 * [Ouvaton](http://ouvaton.coop/)
 * [Sud-Ouest.org](https://www.sud-ouest.org/)
 * [YouNameIt]
+
+Nice list: http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs
