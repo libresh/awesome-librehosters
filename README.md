@@ -6,6 +6,8 @@
 * [IndieHosters](https://indiehosters.net/)
 * [Ouvaton](http://ouvaton.coop/)
 * [Sud-Ouest.org](https://www.sud-ouest.org/)
+* [domainepublic.net](http://www.domainepublic.net/)
+* [bawet](http://www.bawet.org/index/pmwiki.php)
 * [YouNameIt]
 
 Nice list: http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs
