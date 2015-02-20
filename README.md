@@ -11,3 +11,4 @@
 * [YouNameIt]
 
 Nice list: http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs
+Another nice list: http://www.rhien.org/Hebergeurs,59.html
