@@ -8,6 +8,7 @@
 * [Sud-Ouest.org](https://www.sud-ouest.org/)
 * [domainepublic.net](http://www.domainepublic.net/)
 * [bawet](http://www.bawet.org/index/pmwiki.php)
+* [franceServe](http://www.franceserv.fr/)
 * [YouNameIt]
 
 Nice list: http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs
