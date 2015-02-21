@@ -9,6 +9,7 @@
 * [domainepublic.net](http://www.domainepublic.net/)
 * [bawet](http://www.bawet.org/index/pmwiki.php)
 * [franceServe](http://www.franceserv.fr/)
+* [Octopuce](https://www.octopuce.fr/)
 * [YouNameIt]
 
 Lists:
