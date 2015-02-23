@@ -10,6 +10,7 @@
 * [bawet](http://www.bawet.org/index/pmwiki.php)
 * [franceServe](http://www.franceserv.fr/)
 * [Octopuce](https://www.octopuce.fr/)
+* [TuxFamily](http://tuxfamily.org/)
 * [YouNameIt]
 
 Lists:
