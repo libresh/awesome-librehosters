@@ -11,6 +11,8 @@
 * [franceServe](http://www.franceserv.fr/)
 * [Octopuce](https://www.octopuce.fr/)
 * [TuxFamily](http://tuxfamily.org/)
+* [thing.net](http://thing.net/)
+* [in Berlin](https://www.in-berlin.de)
 * [YouNameIt]
 
 Lists:
