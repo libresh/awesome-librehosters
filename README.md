@@ -15,6 +15,7 @@
 * [in Berlin](https://www.in-berlin.de)
 * [systemli.org](https://www.systemli.org/)
 * [l’Autre Net](http://www.lautre.net/)
+* [Devosi](https://www.devosi.org/)
 * [YouNameIt]
 
 Lists:
