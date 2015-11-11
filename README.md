@@ -16,6 +16,9 @@
 * [systemli.org](https://www.systemli.org/)
 * [l’Autre Net](http://www.lautre.net/)
 * [Devosi](https://www.devosi.org/)
+* [tetaneutral.net](http://tetaneutral.net/)
+* [LDN](http://ldn-fai.net/)
+* [Aquilenet](http://www.aquilenet.fr/)
 * [YouNameIt]
 
 Lists:
