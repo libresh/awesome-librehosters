@@ -17,6 +17,7 @@
 * [LDN](http://ldn-fai.net/)
 * [Octopuce](https://www.octopuce.fr/)
 * [Ouvaton](http://ouvaton.coop/)
+* [Runbox](https://runbox.com/)
 * [Sud-Ouest.org](https://www.sud-ouest.org/)
 * [tetaneutral.net](http://tetaneutral.net/)
 * [thing.net](http://thing.net/)
