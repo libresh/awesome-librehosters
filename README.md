@@ -8,6 +8,7 @@
 * [domainepublic.net](http://www.domainepublic.net/)
 * [Ecobytes](https://co-munity.net/ecobytes)
 * [Framasoft](http://www.framasoft.net/)
+* [Fripost](https://fripost.org/english/)
 * [FranceServe](http://www.franceserv.fr/)
 * [Greenhost](https://greenhost.net/)
 * [in Berlin](https://www.in-berlin.de)
