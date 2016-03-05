@@ -26,6 +26,7 @@
 * [Sud-Ouest.org](https://www.sud-ouest.org/)
 * [tetaneutral.net](http://tetaneutral.net/)
 * [thing.net](http://thing.net/)
+* [Toile Libre](http://www.toile-libre.org/)
 * [TuxFamily](http://tuxfamily.org/)
 * [systemli.org](https://www.systemli.org/)
 * [YouNameIt]
