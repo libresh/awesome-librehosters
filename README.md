@@ -18,7 +18,7 @@
 * [IndieHosters](https://indiehosters.net/)
 * [Kione](https://kione.de/)
 * [l’Autre Net](http://www.lautre.net/)
-* [Lorraine Data Networl (LDN)](http://ldn-fai.net/)
+* [Lorraine Data Network (LDN)](http://ldn-fai.net/)
 * [Octopuce](https://www.octopuce.fr/)
 * [Ouvaton](http://ouvaton.coop/)
 * [Rhien](http://www.rhien.org/)
