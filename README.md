@@ -8,6 +8,7 @@
 * [Devosi](https://www.devosi.org/)
 * [domainepublic.net](http://www.domainepublic.net/)
 * [Ecobytes](https://co-munity.net/ecobytes)
+* [French Data Network (FDN)](http://www.fdn.fr/)
 * [Framasoft](http://www.framasoft.net/)
 * [Fripost](https://fripost.org/english/)
 * [FranceServe](http://www.franceserv.fr/)
