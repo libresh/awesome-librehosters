@@ -12,6 +12,7 @@
 * [Framasoft](http://www.framasoft.net/)
 * [Fripost](https://fripost.org/english/)
 * [FranceServe](http://www.franceserv.fr/)
+* [GlobeNet](http://globenet.org/)
 * [Greenhost](https://greenhost.net/)
 * [in Berlin](https://www.in-berlin.de)
 * [IndieHosters](https://indiehosters.net/)
