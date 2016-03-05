@@ -21,6 +21,7 @@
 * [Lorraine Data Networl (LDN)](http://ldn-fai.net/)
 * [Octopuce](https://www.octopuce.fr/)
 * [Ouvaton](http://ouvaton.coop/)
+* [Rhien](http://www.rhien.org/)
 * [Runbox](https://runbox.com/)
 * [Sud-Ouest.org](https://www.sud-ouest.org/)
 * [tetaneutral.net](http://tetaneutral.net/)
