@@ -14,6 +14,8 @@
 * [FranceServe](http://www.franceserv.fr/)
 * [GlobeNet](http://globenet.org/)
 * [Greenhost](https://greenhost.net/)
+* [Grifon](https://grifon.fr/)
+* [Gozmail](https://gozmail.bzh/)
 * [in Berlin](https://www.in-berlin.de)
 * [IndieHosters](https://indiehosters.net/)
 * [Kione](https://kione.de/)
