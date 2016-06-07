@@ -33,7 +33,15 @@
 * [systemli.org](https://www.systemli.org/)
 * [YouNameIt]
 
-Lists:
- - http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs
- - http://www.rhien.org/Hebergeurs,59.html
- - http://www.autistici.org/en/links.html
+Similar or related lists:
+
+* self-hosted
+
+  - [Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone](http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs) wiki
+  - [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
+  - [A/I - Links and Friends - Radical Tech Collectives](http://www.autistici.org/en/links.html)
+
+* wiki documents using git and markdown
+
+  - [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
+  - [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
