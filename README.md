@@ -4,6 +4,7 @@
 * [Alsace Réseau Neutre (ARN)](http://arn-fai.net/)
 * [Autistici/Inventati](http://www.autistici.org/en/index.html)
 * [bawet](http://www.bawet.org/index/pmwiki.php)
+* [Cassiopea](http://www.cassiopea.org/)
 * [d9tready](https://d9tready.com/)
 * [Devosi](https://www.devosi.org/)
 * [domainepublic.net](http://www.domainepublic.net/)
@@ -26,11 +27,13 @@
 * [Rhien](http://www.rhien.org/)
 * [Runbox](https://runbox.com/)
 * [Sud-Ouest.org](https://www.sud-ouest.org/)
+* [TeDomum](https://www.tedomum.net/)
 * [tetaneutral.net](http://tetaneutral.net/)
 * [thing.net](http://thing.net/)
 * [Toile Libre](http://www.toile-libre.org/)
 * [TuxFamily](http://tuxfamily.org/)
 * [systemli.org](https://www.systemli.org/)
+* [WebHostingCoop](http://www.webhosting.coop/)
 * [YouNameIt]
 
 Similar or related lists:
