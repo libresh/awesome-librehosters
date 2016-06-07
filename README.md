@@ -1,4 +1,4 @@
-# nice-hosting-providers
+# awesome-indiehosters
 
 * [Aquilenet](http://www.aquilenet.fr/)
 * [Alsace Réseau Neutre (ARN)](http://arn-fai.net/)
@@ -16,7 +16,7 @@
 * [Greenhost](https://greenhost.net/)
 * [Grifon](https://grifon.fr/)
 * [Gozmail](https://gozmail.bzh/)
-* [in Berlin](https://www.in-berlin.de)
+* [IN-BERLIN](https://www.in-berlin.de)
 * [IndieHosters](https://indiehosters.net/)
 * [Kione](https://kione.de/)
 * [l’Autre Net](http://www.lautre.net/)
