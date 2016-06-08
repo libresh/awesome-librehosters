@@ -1,4 +1,4 @@
-# awesome-indiehosters
+# awesome-librehosters
 
 * [Aquilenet](http://www.aquilenet.fr/)
 * [Alsace Réseau Neutre (ARN)](http://arn-fai.net/)
