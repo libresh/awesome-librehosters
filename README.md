@@ -7,6 +7,7 @@
 * [Cassiopea](http://www.cassiopea.org/)
 * [d9tready](https://d9tready.com/)
 * [Devosi](https://www.devosi.org/)
+* [disroot](https://disroot.org/)
 * [domainepublic.net](http://www.domainepublic.net/)
 * [Ecobytes](https://co-munity.net/ecobytes)
 * [French Data Network (FDN)](http://www.fdn.fr/)
