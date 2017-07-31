@@ -2,57 +2,71 @@
 
 A curated list of awesome libre hosters. They are libre because they just use libre software.
 
-* [Aquilenet](http://www.aquilenet.fr/)
-* [Alsace Réseau Neutre (ARN)](http://arn-fai.net/)
-* [Autistici/Inventati](http://www.autistici.org/en/index.html)
-* [bawet](http://www.bawet.org/index/pmwiki.php)
-* [Cassiopea](http://www.cassiopea.org/)
-* [d9tready](https://d9tready.com/)
-* [Devosi](https://www.devosi.org/)
-* [disroot](https://disroot.org/)
-* [domainepublic.net](http://www.domainepublic.net/)
-* [Ecobytes](https://co-munity.net/ecobytes)
-* [French Data Network (FDN)](http://www.fdn.fr/)
-* [Framasoft](http://www.framasoft.net/)
-* [Fripost](https://fripost.org/english/)
-* [FranceServe](http://www.franceserv.fr/)
-* [GlobeNet](http://globenet.org/)
-* [Greenhost](https://greenhost.net/)
-* [Grifon](https://grifon.fr/)
-* [Gozmail](https://gozmail.bzh/)
-* [IN-BERLIN](https://www.in-berlin.de)
-* [IndieHosters](https://indiehosters.net/)
-* [Kione](https://kione.de/)
-* [l’Autre Net](http://www.lautre.net/)
-* [Lorraine Data Network (LDN)](http://ldn-fai.net/)
-* [Octopuce](https://www.octopuce.fr/)
-* [Ouvaton](http://ouvaton.coop/)
-* [Rhien](http://www.rhien.org/)
-* [Runbox](https://runbox.com/)
-* [Sud-Ouest.org](https://www.sud-ouest.org/)
-* [TeDomum](https://www.tedomum.net/)
-* [tetaneutral.net](http://tetaneutral.net/)
-* [thing.net](http://thing.net/)
-* [Toile Libre](http://www.toile-libre.org/)
-* [TuxFamily](http://tuxfamily.org/)
-* [systemli.org](https://www.systemli.org/)
-* [WebHostingCoop](http://www.webhosting.coop/)
-* [YouNameIt]
+## groups and collectives which provide solidarity IT services
 
-Similar or related lists:
+Name | address | office location
+--- | --- | ---
+about:source | https://www.aboutsource.net/ |
+Aquilenet | http://www.aquilenet.fr/ |
+Alsace Réseau Neutre (ARN) | http://arn-fai.net/ |
+Autistici/Inventati | http://www.autistici.org/en/index.html | Italy
+bawet | http://www.bawet.org/index/pmwiki.php |
+Cassiopea | http://www.cassiopea.org/ | Brussels
+d9tready | https://d9tready.com/ |
+Devosi | https://www.devosi.org/ |
+disroot | https://disroot.org/ |
+domainepublic.net | http://www.domainepublic.net/ | Brussels
+Ecobytes | https://ecobytes.net/ | Witzenhausen, Berlin
+French Data Network (FDN) | http://www.fdn.fr/ |
+Framasoft | http://www.framasoft.net/ | France
+Fripost | https://fripost.org/english/ |
+FranceServe | http://www.franceserv.fr/ |
+Gaia | http://gaia.de/ |
+GlobeNet | http://globenet.org/ |
+Greenhost | https://greenhost.net/ |
+Grifon | https://grifon.fr/ |
+Gozmail | https://gozmail.bzh/ |
+IN-BERLIN | https://www.in-berlin.de | Berlin
+IndieHosters | https://indiehosters.net/ |
+IT-Kollektiv | https://it-kollektiv.com/ |
+Kione | https://kione.de/ |
+l’Autre Net | http://www.lautre.net/ |
+LibreNet | https://librenet.co.za/network/ |
+Lorraine Data Network (LDN) | http://ldn-fai.net/ |
+May First/People link | https://mayfirst.org/ |
+Octopuce | https://www.octopuce.fr/ |
+Ouvaton | http://ouvaton.coop/ |
+RiSEUP | https://riseup.net/ |
+Rhien | http://www.rhien.org/ |
+Runbox | https://runbox.com/ |
+Sud-Ouest.org | https://www.sud-ouest.org/ |
+TeDomum | https://www.tedomum.net/ |
+tetaneutral.net | http://tetaneutral.net/ |
+thing.net | http://thing.net/ |
+Toile Libre | http://www.toile-libre.org/ |
+TuxFamily | http://tuxfamily.org/ |
+systemli.org | https://www.systemli.org/ | Berlin
+WebHostingCoop | http://www.webhosting.coop/ |
+weho.st | https://weho.st/ | Amsterdam
 
-* self-hosted
 
-  - [Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone](http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs) wiki
-  - [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
-  - [A/I - Links and Friends - Radical Tech Collectives](http://www.autistici.org/en/links.html)
+## Networks of collectives
 
-* wiki documents using git and markdown
+- [CHATONS](https://chatons.org/) - le Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires
+- [Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone](http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs) - wiki
+- [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
+- [A/I - Links and Friends - Radical Tech Collectives](http://www.autistici.org/en/links.html)
 
-  - [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
-  - [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
+## Lists of softwares
 
-## License
+- [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
+- [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
+
+## Non-solidarity, nonetheless FLOSS supporters
+
+- [schokokeks](https://schokokeks.org/)
+
+# License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
