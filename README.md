@@ -2,7 +2,7 @@
 
 A curated list of awesome libre hosters. They are libre because they just use libre software.
 
-## groups and collectives which provide solidarity IT services
+## Groups and collectives which provide solidarity IT services
 
 Name | address | office location
 --- | --- | ---
