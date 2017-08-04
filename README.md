@@ -20,6 +20,7 @@ A curated list of awesome libre hosters. They are libre because they just use li
 * [Greenhost](https://greenhost.net/)
 * [Grifon](https://grifon.fr/)
 * [Gozmail](https://gozmail.bzh/)
+* [Hostsharing eG](https://www.hostsharing.net/)
 * [IN-BERLIN](https://www.in-berlin.de)
 * [IndieHosters](https://indiehosters.net/)
 * [Kione](https://kione.de/)
