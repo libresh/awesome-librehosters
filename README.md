@@ -26,6 +26,7 @@ GlobeNet | http://globenet.org/ |
 Greenhost | https://greenhost.net/ |
 Grifon | https://grifon.fr/ |
 Gozmail | https://gozmail.bzh/ |
+Hostsharing eG | https://www.hostsharing.net/ | Germany
 IN-BERLIN | https://www.in-berlin.de | Berlin
 IndieHosters | https://indiehosters.net/ |
 IT-Kollektiv | https://it-kollektiv.com/ |
