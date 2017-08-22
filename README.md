@@ -29,6 +29,7 @@ Gozmail | https://gozmail.bzh/ |
 Hostsharing eG | https://www.hostsharing.net/ | Germany
 IN-BERLIN | https://www.in-berlin.de | Berlin
 IndieHosters | https://indiehosters.net/ |
+Infini | https://www.infini.fr/ | Brest
 IT-Kollektiv | https://it-kollektiv.com/ |
 Kione | https://kione.de/ |
 l’Autre Net | http://www.lautre.net/ |
@@ -46,6 +47,7 @@ tetaneutral.net | http://tetaneutral.net/ |
 thing.net | http://thing.net/ |
 Toile Libre | http://www.toile-libre.org/ |
 TuxFamily | http://tuxfamily.org/ |
+Unixcorn Project | https://unixcorn.org/ | Paris
 systemli.org | https://www.systemli.org/ | Berlin
 WebHostingCoop | http://www.webhosting.coop/ |
 weho.st | https://weho.st/ | Amsterdam
@@ -66,6 +68,7 @@ weho.st | https://weho.st/ | Amsterdam
 ## Non-solidarity, nonetheless FLOSS supporters
 
 - [schokokeks](https://schokokeks.org/)
+- [teknik.io](https://teknik.io/)
 
 # License
 
