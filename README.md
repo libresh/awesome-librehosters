@@ -36,6 +36,7 @@ Kione | https://kione.de/ |
 l’Autre Net | http://www.lautre.net/ |
 LibreNet | https://librenet.co.za/network/ |
 Lorraine Data Network (LDN) | http://ldn-fai.net/ |
+MaadiX | https://maadix.net/en | Barcelona
 May First/People link | https://mayfirst.org/ |
 Octopuce | https://www.octopuce.fr/ |
 Ouvaton | http://ouvaton.coop/ |
