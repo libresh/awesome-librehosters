@@ -38,6 +38,7 @@ LibreNet | https://librenet.co.za/network/ |
 Lorraine Data Network (LDN) | http://ldn-fai.net/ |
 MaadiX | https://maadix.net/en | Barcelona
 May First/People link | https://mayfirst.org/ |
+Netzguerilla | https://netzguerilla.net/ | Berlin
 Octopuce | https://www.octopuce.fr/ |
 Ouvaton | http://ouvaton.coop/ |
 RiSEUP | https://riseup.net/ |
