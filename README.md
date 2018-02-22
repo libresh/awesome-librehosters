@@ -29,7 +29,7 @@ Grifon | https://grifon.fr/ |
 Gozmail | https://gozmail.bzh/ |
 Hostsharing eG | https://www.hostsharing.net/ | Germany
 IN-BERLIN | https://www.in-berlin.de | Berlin
-IndieHosters | https://indiehosters.net/ |
+IndieHosters | https://indiehosters.net/ | Lyon&Wiesbaden
 Infini | https://www.infini.fr/ | Brest
 IT-Kollektiv | https://it-kollektiv.com/ |
 Kione | https://kione.de/ |
