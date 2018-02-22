@@ -5,7 +5,7 @@ A curated list of awesome libre hosters. They are libre because they just use li
 ## Groups and collectives which provide solidarity IT services
 
 Name | address | office location | source code
---- | --- | ---
+--- | --- | --- | ---
 about:source | https://www.aboutsource.net/ | |
 Aquilenet | http://www.aquilenet.fr/ | |
 Alsace Réseau Neutre (ARN) | http://arn-fai.net/ | |
