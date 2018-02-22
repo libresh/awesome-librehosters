@@ -4,7 +4,7 @@ A curated list of awesome libre hosters. They are libre because they just use li
 
 ## Groups and collectives which provide solidarity IT services
 
-Name | address | office location
+Name | address | office location | source code
 --- | --- | ---
 about:source | https://www.aboutsource.net/ |
 Aquilenet | http://www.aquilenet.fr/ |
@@ -29,7 +29,7 @@ Grifon | https://grifon.fr/ |
 Gozmail | https://gozmail.bzh/ |
 Hostsharing eG | https://www.hostsharing.net/ | Germany
 IN-BERLIN | https://www.in-berlin.de | Berlin
-IndieHosters | https://indiehosters.net/ | Lyon&Wiesbaden
+IndieHosters | https://indiehosters.net/ | Lyon&Wiesbaden | https://github.com/indiehosters/ & https://git.indie.host/meta
 Infini | https://www.infini.fr/ | Brest
 IT-Kollektiv | https://it-kollektiv.com/ |
 Kione | https://kione.de/ |
