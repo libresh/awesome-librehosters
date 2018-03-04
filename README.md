@@ -55,7 +55,6 @@ systemli.org | https://www.systemli.org/ | Berlin |
 WebHostingCoop | http://www.webhosting.coop/ | |
 weho.st | https://weho.st/ | Amsterdam |
 
-
 ## Networks of collectives
 
 - [CHATONS](https://chatons.org/) - le Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires
@@ -63,15 +62,22 @@ weho.st | https://weho.st/ | Amsterdam |
 - [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
 - [A/I - Links and Friends - Radical Tech Collectives](http://www.autistici.org/en/links.html)
 
-## Lists of softwares
+## Related
+
+### Lists of softwares
 
 - [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
 
-## Non-solidarity, nonetheless FLOSS supporters
+### Notable FLOSS supporters
 
 - [schokokeks](https://schokokeks.org/)
 - [teknik.io](https://teknik.io/)
+
+### Libre hardware producers
+
+- [vikings](https://www.vikings.net/)
+- [Purism](https://puri.sm/)
 
 # License
 
