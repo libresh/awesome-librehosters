@@ -33,6 +33,7 @@ IndieHosters | https://indiehosters.net/ | Lyon&Wiesbaden | https://github.com/i
 Infini | https://www.infini.fr/ | Brest |
 IT-Kollektiv | https://it-kollektiv.com/ | |
 Kione | https://kione.de/ | |
+Koumbit | https://www.koumbit.org/ | |
 l’Autre Net | http://www.lautre.net/ | |
 LibreNet | https://librenet.co.za/network/ | |
 Lorraine Data Network (LDN) | http://ldn-fai.net/ | |
