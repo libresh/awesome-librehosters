@@ -27,7 +27,7 @@ GlobeNet | http://globenet.org/ | |
 Greenhost | https://greenhost.net/ | |
 Grifon | https://grifon.fr/ | |
 Gozmail | https://gozmail.bzh/ | |
-Hostsharing eG | https://www.hostsharing.net/ | Germany |
+Hostsharing eG | https://www.hostsharing.net/ | Germany | https://github.com/hostsharing
 IN-BERLIN | https://www.in-berlin.de | Berlin |
 IndieHosters | https://indiehosters.net/ | Lyon&Wiesbaden | https://github.com/libresh/ & https://git.indie.host/meta
 Infini | https://www.infini.fr/ | Brest |
