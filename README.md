@@ -32,6 +32,7 @@ IN-BERLIN | https://www.in-berlin.de | Berlin |
 IndieHosters | https://indiehosters.net/ | Lyon&Wiesbaden | https://github.com/libresh/ & https://git.indie.host/meta
 Infini | https://www.infini.fr/ | Brest |
 IT-Kollektiv | https://it-kollektiv.com/ | |
+Kamax | https://www.kamax.io/ | Luxembourg | https://github.com/kamax-io
 Kione | https://kione.de/ | |
 Koumbit | https://www.koumbit.org/ | |
 l’Autre Net | http://www.lautre.net/ | |
