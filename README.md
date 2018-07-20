@@ -22,6 +22,7 @@ French Data Network (FDN) | http://www.fdn.fr/ | |
 Framasoft | http://www.framasoft.net/ | France |
 Fripost | https://fripost.org/english/ | |
 FranceServe | http://www.franceserv.fr/ | |
+Freedom Network, The | https://about.librenet.co.za/ | |
 Gaia | http://gaia.de/ | |
 GlobeNet | http://globenet.org/ | |
 Greenhost | https://greenhost.net/ | |
