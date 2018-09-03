@@ -43,6 +43,7 @@ MaadiX | https://maadix.net/en | Barcelona |
 May First/People link | https://mayfirst.org/ | |
 Netzguerilla | https://netzguerilla.net/ | Berlin |
 Octopuce | https://www.octopuce.fr/ | |
+Ourproject | https://ourproject.org/ | Madrid |
 Ouvaton | http://ouvaton.coop/ | |
 RiSEUP | https://riseup.net/ | |
 Rhien | http://www.rhien.org/ | |
