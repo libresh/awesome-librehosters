@@ -12,6 +12,7 @@ Alsace Réseau Neutre (ARN) | http://arn-fai.net/ | |
 Autistici/Inventati | http://www.autistici.org/en/index.html | Italy |
 bawet | http://www.bawet.org/index/pmwiki.php | |
 Cassiopea | http://www.cassiopea.org/ | Brussels |
+coletivos.org | https://coletivos.org/ | |
 d9tready | https://d9tready.com/ | |
 Devosi | https://www.devosi.org/ | |
 disroot | https://disroot.org/ | |
