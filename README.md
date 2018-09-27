@@ -56,6 +56,7 @@ Toile Libre | http://www.toile-libre.org/ | |
 TuxFamily | http://tuxfamily.org/ | |
 Unixcorn Project | https://unixcorn.org/ | Paris |
 systemli.org | https://www.systemli.org/ | Berlin |
+Webarchitects | https://www.webarch.coop/ | Sheffield, UK | https://git.coop/
 WebHostingCoop | http://www.webhosting.coop/ | |
 weho.st | https://weho.st/ | Amsterdam |
 
