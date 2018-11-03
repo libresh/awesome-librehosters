@@ -1,6 +1,6 @@
 # Awesome Librehosters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome libre hosters. They are libre because they just use libre software.
+A curated list of awesome libre hosters. They are _libre_ because they use only libre software.
 
 ## Groups and collectives which provide solidarity IT services
 
@@ -70,7 +70,7 @@ weho.st | https://weho.st/ | Amsterdam |
 
 ## Related
 
-### Lists of softwares
+### Lists of software
 
 - [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
