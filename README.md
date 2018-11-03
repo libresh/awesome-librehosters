@@ -9,7 +9,7 @@ Name | address | office location | source code
 about:source | https://www.aboutsource.net/ | |
 Aquilenet | http://www.aquilenet.fr/ | |
 Alsace Réseau Neutre (ARN) | http://arn-fai.net/ | |
-Autistici/Inventati | http://www.autistici.org/en/index.html | Italy |
+Autistici/Inventati | http://www.autistici.org/ | Italy |
 bawet | http://www.bawet.org/index/pmwiki.php | |
 Cassiopea | http://www.cassiopea.org/ | Brussels |
 d9tready | https://d9tready.com/ | |
@@ -66,7 +66,8 @@ weho.st | https://weho.st/ | Amsterdam |
 - [CHATONS](https://chatons.org/) - le Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires
 - [Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone](http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs) - wiki
 - [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
-- [A/I - Links and Friends - Radical Tech Collectives](http://www.autistici.org/en/links.html)
+- [A/I - Radical Tech Collectives](http://www.autistici.org/links)
+- [A/I - The R* Plan: a network of resistant communication](https://www.autistici.org/who/rplan/)
 
 ## Related
 
