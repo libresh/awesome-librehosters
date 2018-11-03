@@ -83,7 +83,9 @@ weho.st | https://weho.st/ | Amsterdam |
 
 ### Libre hardware producers
 
+- [Olimex](https://olimex.com)
 - [Purism](https://puri.sm/)
+- [TinkerPhones](http://tinkerphones.org)
 - [Vikings](https://www.vikings.net/)
 
 # License
