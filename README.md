@@ -63,18 +63,18 @@ weho.st | https://weho.st/ | Amsterdam |
 
 ## Networks of collectives
 
+- [A/I - Radical Tech Collectives](http://www.autistici.org/links)
+- [A/I - The R* Plan: a network of resistant communication](https://www.autistici.org/who/rplan/)
 - [CHATONS](https://chatons.org/) - le Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires
 - [Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone](http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs) - wiki
 - [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
-- [A/I - Radical Tech Collectives](http://www.autistici.org/links)
-- [A/I - The R* Plan: a network of resistant communication](https://www.autistici.org/who/rplan/)
 
 ## Related
 
 ### Lists of software
 
-- [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 
 ### Notable FLOSS supporters
 
@@ -83,8 +83,8 @@ weho.st | https://weho.st/ | Amsterdam |
 
 ### Libre hardware producers
 
-- [vikings](https://www.vikings.net/)
 - [Purism](https://puri.sm/)
+- [Vikings](https://www.vikings.net/)
 
 # License
 
