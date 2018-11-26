@@ -16,7 +16,7 @@ d9tready | https://d9tready.com/ | |
 Devosi | https://www.devosi.org/ | |
 disroot | https://disroot.org/ | |
 domainepublic.net | http://www.domainepublic.net/ | Brussels |
-Ecobytes | https://ecobytes.net/ | Witzenhausen, Berlin |
+Ecobytes | https://ecobytes.net/ | Witzenhausen&Hackenow |
 Espiv | https://espiv.net/ | Athens |
 French Data Network (FDN) | http://www.fdn.fr/ | |
 Framasoft | http://www.framasoft.net/ | France |
@@ -30,7 +30,7 @@ Grifon | https://grifon.fr/ | |
 Gozmail | https://gozmail.bzh/ | |
 Hostsharing eG | https://www.hostsharing.net/ | Germany | https://github.com/hostsharing
 IN-BERLIN | https://www.in-berlin.de | Berlin |
-IndieHosters | https://indiehosters.net/ | Lyon&Wiesbaden | https://github.com/libresh/ & https://git.indie.host/meta
+IndieHosters | https://indiehosters.net/ | Lyon&Wiesbaden | https://github.com/libresh/ & https://git.indie.host/meta & https://lab.libreho.st/libre.sh
 Infini | https://www.infini.fr/ | Brest |
 IT-Kollektiv | https://it-kollektiv.com/ | |
 Kamax | https://www.kamax.io/ | Luxembourg | https://github.com/kamax-io
