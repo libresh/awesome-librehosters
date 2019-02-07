@@ -65,7 +65,7 @@ weho.st | https://weho.st/ | Amsterdam |
 ## Networks of collectives
 
 - [A/I - Radical Tech Collectives](http://www.autistici.org/links)
-- [A/I - The R* Plan: a network of resistant communication](https://www.autistici.org/who/rplan/)
+- [A/I - The R\* Plan: a network of resistant communication](https://www.autistici.org/who/rplan/)
 - [CHATONS](https://chatons.org/) - le Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires
 - [Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone](http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs) - wiki
 - [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
