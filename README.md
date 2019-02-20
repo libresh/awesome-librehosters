@@ -1,6 +1,6 @@
 # Awesome Librehosters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome libre hosters. They are libre because they just use libre software.
+A curated list of awesome libre hosters. They are _libre_ because they use only libre software.
 
 ## Groups and collectives which provide solidarity IT services
 
@@ -9,9 +9,10 @@ Name | address | office location | source code
 about:source | https://www.aboutsource.net/ | |
 Aquilenet | http://www.aquilenet.fr/ | |
 Alsace Réseau Neutre (ARN) | http://arn-fai.net/ | |
-Autistici/Inventati | http://www.autistici.org/en/index.html | Italy |
+Autistici/Inventati | http://www.autistici.org/ | Italy |
 bawet | http://www.bawet.org/index/pmwiki.php | |
 Cassiopea | http://www.cassiopea.org/ | Brussels |
+coletivos.org | https://coletivos.org/ | |
 d9tready | https://d9tready.com/ | |
 Devosi | https://www.devosi.org/ | |
 disroot | https://disroot.org/ | |
@@ -63,17 +64,18 @@ weho.st | https://weho.st/ | Amsterdam |
 
 ## Networks of collectives
 
+- [A/I - Radical Tech Collectives](http://www.autistici.org/links)
+- [A/I - The R\* Plan: a network of resistant communication](https://www.autistici.org/who/rplan/)
 - [CHATONS](https://chatons.org/) - le Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires
 - [Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone](http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs) - wiki
 - [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
-- [A/I - Links and Friends - Radical Tech Collectives](http://www.autistici.org/en/links.html)
 
 ## Related
 
-### Lists of softwares
+### Lists of software
 
-- [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 
 ### Notable FLOSS supporters
 
@@ -82,8 +84,10 @@ weho.st | https://weho.st/ | Amsterdam |
 
 ### Libre hardware producers
 
-- [vikings](https://www.vikings.net/)
+- [Olimex](https://olimex.com)
 - [Purism](https://puri.sm/)
+- [TinkerPhones](http://tinkerphones.org)
+- [Vikings](https://www.vikings.net/)
 
 # License
 
