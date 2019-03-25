@@ -43,6 +43,7 @@ Lorraine Data Network (LDN) | http://ldn-fai.net/ | |
 MaadiX | https://maadix.net/en | Barcelona |
 May First/People link | https://mayfirst.org/ | |
 Netzguerilla | https://netzguerilla.net/ | Berlin |
+NixNet | https://nixnet.xyz | United States | |
 Octopuce | https://www.octopuce.fr/ | |
 Ourproject | https://ourproject.org/ | Madrid |
 Ouvaton | http://ouvaton.coop/ | |
