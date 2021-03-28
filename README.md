@@ -61,6 +61,7 @@ vpsFree.cz | https://vpsfree.cz | Prague |
 Webarchitects | https://www.webarch.coop/ | Sheffield, UK | https://git.coop/
 WebHostingCoop | http://www.webhosting.coop/ | |
 weho.st | https://weho.st/ | Amsterdam |
+data.coop | https://data.coop | Copenhagen | https://git.data.coop/
 
 ## Networks of collectives
 
