@@ -69,6 +69,8 @@ weho.st | https://weho.st/ | Amsterdam |
 - [CHATONS](https://chatons.org/) - le Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires
 - [Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone](http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs) - wiki
 - [rhien - Réseau d'Hébergeurs Indépendants et ENgagés](http://www.rhien.org/Hebergeurs,59.html)
+- [Librehosters](https://libreho.st/)
+- [CoTech](https://www.coops.tech/)
 
 ## Related
 
