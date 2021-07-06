@@ -10,6 +10,7 @@ about:source | https://www.aboutsource.net/ | |
 Aquilenet | http://www.aquilenet.fr/ | |
 Alsace Réseau Neutre (ARN) | http://arn-fai.net/ | |
 Autistici/Inventati | http://www.autistici.org/ | Italy |
+Autonomic Co-op | https://autonomic.zone/ | Cypherspace |
 bawet | http://www.bawet.org/index/pmwiki.php | |
 Cassiopea | http://www.cassiopea.org/ | Brussels |
 coletivos.org | https://coletivos.org/ | |
