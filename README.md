@@ -13,6 +13,7 @@ Autistici/Inventati | http://www.autistici.org/ | Italy |
 Autonomic Co-op | https://autonomic.zone/ | Cypherspace |
 bawet | http://www.bawet.org/index/pmwiki.php | |
 Cassiopea | http://www.cassiopea.org/ | Brussels |
+Cloud68.co | https://cloud68.co | Estonia |
 coletivos.org | https://coletivos.org/ | |
 d9tready | https://d9tready.com/ | |
 Devosi | https://www.devosi.org/ | |
