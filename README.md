@@ -21,6 +21,7 @@ disroot | https://disroot.org/ | |
 domainepublic.net | http://www.domainepublic.net/ | Brussels |
 Ecobytes | https://ecobytes.net/ | Witzenhausen&Hackenow |
 Espiv | https://espiv.net/ | Athens |
+Ethibox | https://ethibox.fr/ | France |
 French Data Network (FDN) | http://www.fdn.fr/ | |
 Framasoft | http://www.framasoft.net/ | France |
 Fripost | https://fripost.org/english/ | |
